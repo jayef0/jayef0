@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+🔭 I'm working on:
+
+- Quantum (Cloud) Computing
+- Efficient Network Communication in Massive Multiplayer Online Role-Playing-Games
+
+Greetings from Esslingen
+
 <!--
 **jayef0/jayef0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
