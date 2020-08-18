@@ -3,6 +3,8 @@
 🔭 I'm working on:
 
 - Quantum (Cloud) Computing
+- Quantum Machine Learning
+- Quantum Cryptography
 - Efficient Network Communication in Massive Multiplayer Online Role-Playing-Games
 
 Greetings from Esslingen
