@@ -7,7 +7,9 @@
 - Quantum Cryptography
 - Post-Quantum Cryptography
 - Efficient Network Communication in Massive Multiplayer Online Role-Playing-Games
+- Design of complex and innovative Communication Protocols
 - Safety
+- Geoinformatics
 
 Greetings from Esslingen
 
